@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paul21233
 - 👀 I’m interested in ...Programming
-- 🌱 I’m currently learning ...C Programming
+- 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...paul.sowrin2002@gmail.com
 
