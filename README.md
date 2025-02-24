@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Programming
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...paul.sowrin2002@gmail.com
+- 📫 How to reach me ...sowrinpaul02@gmail.com
 
 <!---
 Paul21233/Paul21233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
