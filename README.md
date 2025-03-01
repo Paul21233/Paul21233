@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paul21233
-- 👀 I’m interested in ...Programming
-- 🌱 I’m currently learning ...Python
+- 👀 I’m interested in ...Programming, Deep Learning, Backend Design
+- 🌱 I’m currently learning ...Python, PyTorch and Depp Learning Models
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...sowrinpaul02@gmail.com
 
